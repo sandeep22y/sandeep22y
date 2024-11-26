@@ -46,6 +46,130 @@ Welcome to my GitHub! I'm a seasoned IT professional with over 10 years of exper
 - Performed mobile app security assessments (iOS and Android), uncovering critical issues like insecure storage and improper API implementations.
 
 ---
+# 🛡️ Pentesting & Tools 🛡️
+
+Welcome to my repository of Pentesting tools, organized by categories for quick reference and streamlined workflow! 🚀
+
+---
+
+## 📋 **Categories and Tools**
+
+### 🌐 **Web App Pentesting**
+| Tool Category       | Tools                                                                                                      |
+|---------------------|-----------------------------------------------------------------------------------------------------------|
+| **Web App Tools**   | Burp Suite Pro 🌐, OWASP ZAP 🌐, Nmap 🌐, Nikto 🌐, Acunetix, HCL-AppScan 🌐, Wfuzz 🌐, SQLMap 🌐, Amass 🌐, NetSparker 🌐, Fortify-WebInspect 🌐 |
+
+---
+
+### 📱 **Mobile App Pentesting**
+
+#### **Android Tools**
+- MobSF 📱
+- Frida 📱
+- APKTool 📱
+- JADX 📱
+- AndroidStudio/Genymotion 📱
+- Drozer 📱
+- Magisk Root 📱
+- APKX 📱
+- mitmproxy 📱
+- Objection 📱
+- adb 📱
+
+#### **iOS Tools**
+- MobSF 📱
+- Frida 📱
+- Objection 📱
+- Cycript 📱
+- iOS Hook 📱
+- Needle 📱
+- Class-dump 📱
+- Burp Suite Mobile Assistant 📱
+- SSL Kill Switch 2 📱
+- iMazing 📱
+
+---
+
+### 📡 **API Pentesting**
+| Tool Category        | Tools                                                                                              |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **API Tools**        | Postman 📡, Insomnia 📡, Burp Suite Pro 📡, OWASP Amass 📡, 42Crunch API Security 📡, Swagger Inspector 📡, Kite Runner 📡, SecApps Intercept 📡 |
+
+---
+
+### 🔐 **Secure Code Review**
+- SonarQube 🔐
+- Snyk 📡
+- Semgrep 🔐
+- Checkmarx 🔐
+- Veracode 🔐
+- Fortify-WorkbencAudit 🔐
+- CodeQL 🔐
+- Bandit 🔐
+- FindSecBugs 🔐
+- Gitleaks 🔐
+
+---
+
+### 💻 **Thick Client Pentesting**
+- Fiddler 💻
+- Burp Suite Pro 💻
+- dnSpy 💻
+- IDA Pro 💻
+- Ghidra 💻
+- Process Explorer 💻
+- CFF Explorer 💻
+- OllyDbg 💻
+- x64dbg 💻
+- Wireshark 💻
+
+---
+
+### 🌐 **Network Pentesting**
+- Nmap 🌐
+- Wireshark 🌐
+- Metasploit Framework 🌐
+- Nessus 🌐
+- OpenVAS 🌐
+- Responder 🌐
+- CrackMapExec 🌐
+- BloodHound 🌐
+- Netcat 🌐
+- Bettercap 🌐
+
+---
+
+### ☁️ **Cloud Security**
+- Prowler ☁️
+- ScoutSuite ☁️
+- CloudSploit ☁️
+- Pacu ☁️
+- Steampipe ☁️
+- CloudMapper ☁️
+- NCC Group Scout ☁️
+- kube-bench ☁️
+
+---
+
+### 🐳 **Container Security**
+- Trivy 🐳
+- Aqua Microscanner 🐳
+- Clair 🐳
+- Anchore 🐳
+- Docker Bench 🐳
+- kube-hunter 🐳
+- Falco 🐳
+- Sysdig 🐳
+- Snyk 🐳
+
+---
+
+## 🛠️ **How to Contribute**
+Feel free to fork this repository, add tools, or suggest updates! Contributions are always welcome. 🧑‍💻
+
+---
+> **Note:** The tools mentioned are based on my experience in various pentesting and security assessments.
+
 
 ## 🌍 **Connect With Me**
 - [LinkedIn](https://linkedin.com/in/sandeep-profile)
