@@ -71,8 +71,8 @@ Feel free to fork this repository, add tools, or suggest updates! Contributions 
 
 
 ## 🌍 **Connect With Me**
-- [LinkedIn](https://linkedin.com/in/sandeep-profile)
-- [Twitter](https://twitter.com/sandeep_handle)
+- [LinkedIn](https://www.linkedin.com/in/sandeep22y/)
+- [Twitter](https://x.com/Sandeep33y)
 - [Portfolio Website](https://sandeep-portfolio.com)
 
 ---
