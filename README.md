@@ -48,11 +48,6 @@ Welcome to my GitHub! I'm a seasoned IT professional with over 10 years of exper
 ---
 # 🛡️ Pentesting & Tools 🛡️
 
-Welcome to my repository of Pentesting tools, organized by categories for quick reference and streamlined workflow! 🚀
-
----
-# 🛡️ Pentesting & Tools 🛡️
-
 | **Category**            | **Tools**                                                                                                                                                                               |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Web App Pentesting**   | Burp Suite Pro 🌐, OWASP ZAP 🌐, Nmap 🌐, Nikto 🌐, Acunetix, HCL-AppScan 🌐, Wfuzz 🌐, SQLMap 🌐, Amass 🌐, NetSparker 🌐, Fortify-WebInspect 🌐                                         |
